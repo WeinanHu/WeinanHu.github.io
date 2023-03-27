@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/03/27/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>AI学习-概述</title>
+    <url>/posts/ae152a83/</url>
+    <content><![CDATA[<h3 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h3><h4 id="定义（摘自百度百科）："><a href="#定义（摘自百度百科）：" class="headerlink" title="定义（摘自百度百科）："></a>定义（摘自百度百科）：</h4><p>机器学习有下面几种定义：</p>
+<p>（1）机器学习是一门人工智能的科学，该领域的主要研究对象是<a href="https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180?fromModule=lemma_inlink">人工智能</a>，特别是如何在经验学习中改善具体算法的性能。</p>
+<p>（2）机器学习是对能通过经验自动改进的计算机算法的研究。</p>
+<p>（3）机器学习是用数据或以往的经验，以此优化计算机程序的性能标准。</p>
+<h5 id="分支："><a href="#分支：" class="headerlink" title="分支："></a>分支：</h5><ol>
+<li>计算机视觉(CV)</li>
+<li>自然语言处理(NLP)</li>
+<li>机器人</li>
+</ol>
+<h5 id="要求："><a href="#要求：" class="headerlink" title="要求："></a>要求：</h5><p>数据、<strong>算法</strong>、计算力</p>
+<p>逐层、分布、并行计算</p>
+<p>GPU、FPGA、TPU</p>
+<p>CPU io密集型，数据文件读写</p>
+<p>GPU 数据计算，易于并行</p>
+<h4 id="工作流程"><a href="#工作流程" class="headerlink" title="工作流程"></a>工作流程</h4><p><img src="https://fastly.jsdelivr.net/gh/WeinanHu/ImageHosting/imgs/202303271741406.png"></p>
 ]]></content>
+      <tags>
+        <tag>AI</tag>
+      </tags>
   </entry>
 </search>
